@@ -1,7 +1,7 @@
 # python-unicode-converter
 Literally <a href="https://github.com/Izzami/unicode-converter">unicode-converter</a> but written in python. 
 
-The only interesting thing is that the program has been completely convertet to python using <a href="https://chat.openai.com/chat">ChatGPT</a> by <a href="https://openai.com/">OpenAI</a>.
+The only interesting thing is that the program has been completely converted to python using <a href="https://chat.openai.com/chat">ChatGPT</a> by <a href="https://openai.com/">OpenAI</a>.
 <br></br>
 **What's that?**
 
